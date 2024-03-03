@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "745310741631",
+    "project_id": "learningfirebase-e45f9",
+    "storage_bucket": "learningfirebase-e45f9.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:745310741631:android:4a62001aed2b7056d9cb4a",
+        "android_client_info": {
+          "package_name": "com.example.learning_firebase"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAURyOYTu-PcoxjcJUl5wjHSjR3f2cndME"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:745310741631:android:cbc35c88d58a9951d9cb4a",
+        "android_client_info": {
+          "package_name": "com.example.random"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAURyOYTu-PcoxjcJUl5wjHSjR3f2cndME"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
